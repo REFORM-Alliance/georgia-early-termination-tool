@@ -176,9 +176,7 @@ decision_tree <-
         tags$div(
           tags$p("Next we need to ask you about your crime of conviction."),
           tags$p("Were you convicted of a “qualified offense?” A “qualified offense” is defined ", 
-                 tags$a(href='https://law.justia.com/codes/georgia/title-42/chapter-8/article-2/section-42-8-21/', target='_blank', class='external-link', "here"), ".", 
-                 "If you do not know what you were convicted of, you can look it up ", 
-                 tags$a(href='https://georgiacourts.gov/eaccess-court-records/', target='_blank', class='external-link', "here"), ".")
+                 tags$a(href='https://law.justia.com/codes/georgia/title-42/chapter-8/article-2/section-42-8-21/', target='_blank', class='external-link', "here"), ".")
         ),
       choices = c("Yes", "No"), 
       question_id = "qualified_offense_question",
