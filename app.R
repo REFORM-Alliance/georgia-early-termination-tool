@@ -213,7 +213,7 @@ decision_tree <-
     list(
       result = 
         tags$div(
-          tags$p("This is not the end of the process. At this point, either the prosecutor or the judge may object to your early termination. If this occurs, the judge must hold a hearing to decide whether or not to grant you early termination. They are required to “take whatever action it determines would be for the best interest of justice and the welfare of society.” It may be helpful to discuss how to best present your case to the judge with your probation officer or your attorney."),
+          tags$p("This is not the end of the process. At this point, either the prosecutor or the judge may object to your early termination, within 30 days of receiving the paperwork. If this occurs, the judge must hold a hearing to decide whether to grant you early termination within 90 days. They are required to “take whatever action it determines would be for the best interest of justice and the welfare of society.” It may be helpful to discuss how to best present your case to the judge with your probation officer or your attorney."),
           tags$p("Please consult with a lawyer for any questions you have about this process.")
         ),
       question_id = "early_term_possible_hearing_result"
