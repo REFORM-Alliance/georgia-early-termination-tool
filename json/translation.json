@@ -1,0 +1,265 @@
+{
+  "languages": ["en", "es"],
+  "translation": [
+    {
+      "en": "Georgia Early Termination Tool",
+      "es": "Herramienta de Terminación Anticipada de Georgia"
+    },
+    {
+      "en": "Change Language",
+      "es": "Cambiar idioma"
+    },
+    {
+      "en": "English",
+      "es": "English"
+    },
+    {
+      "en": "Español",
+      "es": "Español"
+    },
+    {
+      "en": "Start",
+      "es": "Iniciar"
+    },
+    {
+      "en": "Back",
+      "es": "Atrás"
+    },
+    {
+      "en": "Next",
+      "es": "Siguiente"
+    },
+    {
+      "en": "Finish",
+      "es": "Finalizar"
+    },
+    {
+      "en": "Start Over",
+      "es": "Empezar de nuevo"
+    },
+    {
+      "en": "Go Back to Previous Question",
+      "es": "Volver a la pregunta anterior"
+    },
+    {
+      "en": "Yes",
+      "es": "Sí"
+    },
+    {
+      "en": "No",
+      "es": "No"
+    },
+    {
+      "en": "Felony",
+      "es": "Delito grave (felony)"
+    },
+    {
+      "en": "Misdemeanor",
+      "es": "Delito menor (misdemeanor)"
+    },
+    {
+      "en": "Leaving Application",
+      "es": "Saliendo de la aplicación"
+    },
+    {
+      "en": "This will take you to a new website.",
+      "es": "Esto le llevará a un sitio web nuevo."
+    },
+    {
+      "en": "Continue",
+      "es": "Continuar"
+    },
+    {
+      "en": "Cancel",
+      "es": "Cancelar"
+    },
+    {
+      "en": "OK",
+      "es": "Aceptar"
+    },
+    {
+      "en": "Missing answer",
+      "es": "Falta una respuesta"
+    },
+    {
+      "en": "Please select an answer before clicking Next",
+      "es": "Seleccione una respuesta antes de hacer clic en Siguiente"
+    },
+    {
+      "en": "here",
+      "es": "aquí"
+    },
+    {
+      "en": ".",
+      "es": "."
+    },
+    {
+      "en": "?",
+      "es": "?"
+    },
+    {
+      "en": "Georgia Code 42-8-37",
+      "es": "Código de Georgia 42-8-37"
+    },
+    {
+      "en": "Georgia Code 42-8-103",
+      "es": "Código de Georgia 42-8-103"
+    },
+    {
+      "en": "Georgia Code section 16-5-21",
+      "es": "la sección 16-5-21 del Código de Georgia"
+    },
+    {
+      "en": "Welcome to REFORM Alliance's Georiga Early Termination Tool.",
+      "es": "Le damos la bienvenida a la Herramienta de Terminación Anticipada de Georgia de REFORM Alliance."
+    },
+    {
+      "en": "This tool is designed to help users navigate the process for early termination of probation in Georgia. It only applies to people on probation, not parole.",
+      "es": "Esta herramienta está diseñada para ayudar a los usuarios a navegar el proceso de terminación anticipada de la libertad condicional (“probation”) en Georgia. Solo se aplica a personas en libertad condicional, no a personas en libertad bajo palabra (“parole”)."
+    },
+    {
+      "en": "This tool can be used by anyone, but is specifically designed to be used by people on probation. To begin using the tool, please click the START button below.",
+      "es": "Esta herramienta puede ser utilizada por cualquier persona, pero está diseñada específicamente para personas en libertad condicional. Para comenzar a usar la herramienta, haga clic en el botón INICIAR a continuación."
+    },
+    {
+      "en": "First we need to ask if you are on probation for a felony or misdemeanor. We ask this question first because Georgia law provides very different options for felony and misdemeanor cases.",
+      "es": "Primero necesitamos preguntarle si está en libertad condicional por un delito grave (“felony”) o un delito menor (“misdemeanor”). Hacemos esta pregunta primero porque la ley de Georgia ofrece opciones muy diferentes para los casos de delito grave y de delito menor."
+    },
+    {
+      "en": "Were you sentenced to probation for a felony or misdemeanor?",
+      "es": "¿Se le sentenció a libertad condicional por un delito grave o por un delito menor?"
+    },
+    {
+      "en": "You can ask a judge to terminate your probation early! There is no automatic process to make this happen, so you will need to file a motion with a court. This is permitted at any time under ",
+      "es": "¡Usted puede pedirle a un juez que termine su libertad condicional anticipadamente! No existe un proceso automático para lograrlo, por lo que deberá presentar una moción ante un tribunal. Esto está permitido en cualquier momento conforme al "
+    },
+    {
+      "en": "; if you are on pay-only probation, it is permitted under ",
+      "es": "; si usted está en libertad condicional de solo pago, está permitido conforme al "
+    },
+    {
+      "en": ". Please consult with a lawyer with any questions about this process.",
+      "es": ". Consulte con un abogado si tiene alguna pregunta sobre este proceso."
+    },
+    {
+      "en": "Next we need to ask you about your criminal history and the nature of your sentence. This is important because it helps determine when you might be eligible for early termination.",
+      "es": "A continuación necesitamos preguntarle sobre sus antecedentes penales y la naturaleza de su sentencia. Esto es importante porque ayuda a determinar cuándo podría ser elegible para la terminación anticipada."
+    },
+    {
+      "en": "Were you sentenced to a lifetime probation for a sexual felony as defined in ",
+      "es": "¿Se le sentenció a libertad condicional de por vida por un delito grave de naturaleza sexual, según se define en "
+    },
+    {
+      "en": "Did you have any felony convictions BEFORE the case that put you on probation?",
+      "es": "¿Tuvo alguna condena por delito grave ANTES del caso por el cual se le impuso la libertad condicional?"
+    },
+    {
+      "en": "Were you sentenced to more than one year of incarceration in addition to your probation sentence? For this question, only a sentence of incarceration of more than 1 year counts, not time served in jail before your sentence.",
+      "es": "¿Se le sentenció a más de un año de encarcelamiento además de su sentencia de libertad condicional? Para esta pregunta, solo cuenta una sentencia de encarcelamiento de más de 1 año, no el tiempo que pasó en la cárcel antes de su sentencia."
+    },
+    {
+      "en": "You are eligible for early termination after serving 10 years on probation. Click below to see what happens next",
+      "es": "Usted es elegible para la terminación anticipada después de cumplir 10 años en libertad condicional. Haga clic abajo para ver qué sucede a continuación."
+    },
+    {
+      "en": "Next we need to ask you some questions about your time on probation. The answers to these questions will determine what you may be eligible for.",
+      "es": "A continuación necesitamos hacerle algunas preguntas sobre su tiempo en libertad condicional. Las respuestas a estas preguntas determinarán a qué opciones podría tener acceso."
+    },
+    {
+      "en": "Were you arrested at any time while on probation for anything other than a non-serious traffic offense? A non-serious traffic offense is defined ",
+      "es": "¿Se le arrestó en algún momento mientras estaba en libertad condicional por algo que no fuera una infracción de tránsito no grave? Una infracción de tránsito no grave se define "
+    },
+    {
+      "en": "Do you owe any restitution?",
+      "es": "¿Debe alguna restitución?"
+    },
+    {
+      "en": "Have you had your probation revoked? This does not mean that you had a violation filed, it means your probation was actually revoked.",
+      "es": "¿Se le ha revocado la libertad condicional? Esto no significa que se haya presentado un cargo por incumplimiento de las condiciones de su libertad condicional; significa que su libertad condicional fue efectivamente revocada."
+    },
+    {
+      "en": "Have you been classified as a sexually dangerous predator by the Sexual Offender Risk Review Board? If you do not know the answer to this question, please discuss it with your probation officer.",
+      "es": "¿Se le ha clasificado como depredador sexual peligroso por la Junta de Revisión de Riesgo de Delincuentes Sexuales (“Sexual Offender Risk Review Board”)? Si no sabe la respuesta a esta pregunta, hable de ello con su oficial de libertad condicional."
+    },
+    {
+      "en": "On the date that you are eligible, the Department of Community Supervision is required to file paperwork with the court applying for your early termination. Essentially, they are required to file for your early termination for you!",
+      "es": "En la fecha en que usted sea elegible, el Departamento de Supervisión Comunitaria está obligado a presentar ante el tribunal los documentos para solicitar su terminación anticipada. ¡En esencia, están obligados a solicitar su terminación anticipada por usted!"
+    },
+    {
+      "en": "You should be aware that as part of this process, the Georgia Department of Community Safety is required to request an updated classification from the Sexual Offender Risk Review Board at least 6 months prior to filing the paperwork with the court. The Sexual Offender Risk Reiew Board is required to provide an updated classification.",
+      "es": "Debe tener en cuenta que, como parte de este proceso, el Departamento de Supervisión Comunitaria de Georgia está obligado a solicitar una clasificación actualizada a la Junta de Revisión de Riesgo de Delincuentes Sexuales al menos 6 meses antes de presentar los documentos ante el tribunal. La Junta de Revisión de Riesgo de Delincuentes Sexuales está obligada a proporcionar una clasificación actualizada."
+    },
+    {
+      "en": "Click below to see what happens next",
+      "es": "Haga clic abajo para ver qué sucede a continuación."
+    },
+    {
+      "en": "This is not the end of the process. At this point, a judge has discretion to grant or deny the petition for early termination. The judge is legally requird to take “whatever action it determines would be for the best interest of justice and the welfare of society.” The judge must also notify your prosecutor’s office and the state’s Board of Pardons and Paroles, and give your prosecutor’s office the opportunity to be heard on the issue of early termination.",
+      "es": "Esto no es el final del proceso. En este punto, un juez tiene la facultad discrecional de conceder o denegar la petición de terminación anticipada. El juez está legalmente obligado a “tomar las medidas que determine sean en el mejor interés de la justicia y el bienestar de la sociedad”. El juez también debe notificar a la oficina del fiscal de su caso y a la Junta de Indultos y Libertad Bajo Palabra del estado, y darle a la oficina del fiscal la oportunidad de ser escuchada sobre la terminación anticipada."
+    },
+    {
+      "en": "If your petition is granted, your period of supervision is finished! If it is denied, your probation officer must file another petition every 5 years.",
+      "es": "Si se concede su petición, ¡su período de supervisión termina! Si se deniega, su oficial de libertad condicional deberá presentar otra petición cada 5 años."
+    },
+    {
+      "en": "Please consult with a lawyer for any questions you have about this process.",
+      "es": "Consulte con un abogado si tiene alguna pregunta sobre este proceso."
+    },
+    {
+      "en": "You can still ask a judge to terminate your probation early, but there is no automatic process to make this happen, you will need to file a motion with a court. This is permitted at any time under ",
+      "es": "Todavía puede pedirle a un juez que termine su libertad condicional anticipadamente, pero no existe un proceso automático para lograrlo; deberá presentar una moción ante un tribunal. Esto está permitido en cualquier momento conforme al "
+    },
+    {
+      "en": "A judge was required to set a “Behavioral Incentive Date”at the time of your sentencing, though not all judges actually do this. If a Behavioral Incentive Date was set by your judge, then you are eligible for early termination within 60 days of this date.",
+      "es": "Se requería que un juez estableciera una “Fecha de Incentivo de Conducta” (“Behavioral Incentive Date”) al momento de su sentencia, aunque no todos los jueces lo hacen realmente. Si su juez estableció una Fecha de Incentivo de Conducta, usted es elegible para la terminación anticipada dentro de los 60 días de esa fecha."
+    },
+    {
+      "en": "If a judge did not set a Behavioral Incentive Date, then you are eligible for early termination after serving 3 years on probation.",
+      "es": "Si un juez no estableció una Fecha de Incentivo de Conducta, usted es elegible para la terminación anticipada después de cumplir 3 años en libertad condicional."
+    },
+    {
+      "en": "Click below to see what happens next.",
+      "es": "Haga clic abajo para ver qué sucede a continuación."
+    },
+    {
+      "en": "Have you had your probation revoked in the past 2 years? This does not mean that you had a violation filed, it means your probation was actually revoked.",
+      "es": "¿Se le ha revocado la libertad condicional en los últimos 2 años? Esto no significa que se haya presentado un cargo por incumplimiento de las condiciones de su libertad condicional; significa que su libertad condicional fue efectivamente revocada."
+    },
+    {
+      "en": "This is not the end of the process, however. At this point, either the prosecutor or the judge may object to your early termination, within 30 days of receiving the paperwork. If this occurs, the judge must hold a hearing to decide whether to grant you early termination within 90 days. They are required to “take whatever action it determines would be for the best interest of justice and the welfare of society.” It may be helpful to discuss how to best present your case to the judge with your probation officer or your attorney.",
+      "es": "Sin embargo, esto no es el final del proceso. En este punto, ya sea el fiscal o el juez puede oponerse a su terminación anticipada, dentro de los 30 días siguientes a la recepción de los documentos. Si esto ocurre, el juez debe celebrar una audiencia dentro de los 90 días para decidir si le concede la terminación anticipada. El juez debe “tomar las medidas que determine sean en el mejor interés de la justicia y el bienestar de la sociedad”. Puede ser útil hablar con su oficial de libertad condicional o con su abogado sobre cómo presentar mejor su caso ante el juez."
+    },
+    {
+      "en": "Next we need to ask you about your crime of conviction.",
+      "es": "A continuación necesitamos preguntarle sobre el delito por el cual se le condenó."
+    },
+    {
+      "en": "Were you convicted of a “qualified offense?” A “qualified offense” is defined ",
+      "es": "¿Se le declaró culpable de un “delito calificado” (“qualified offense”)? Un “delito calificado” se define "
+    },
+    {
+      "en": "If you do not know what you were convicted of, you can look it up ",
+      "es": " Si no sabe por qué delito se le declaró culpable, puede buscarlo "
+    },
+    {
+      "en": "You are eligible for early termination after serving 3 years on probation.",
+      "es": "Usted es elegible para la terminación anticipada después de cumplir 3 años en libertad condicional."
+    },
+    {
+      "en": "You can apply at any time before or after then for early termination, but you will automatically be eligible after 3 years. Click below to see what happens next.",
+      "es": "Puede solicitar la terminación anticipada en cualquier momento, antes o después de ese plazo, pero será elegible automáticamente después de 3 años. Haga clic abajo para ver qué sucede a continuación."
+    },
+    {
+      "en": "When you become eligible, your probation officer has the option to file paperwork with the court applying for your early termination. It is important to talk to your probation officer about whether to file this or not.",
+      "es": "Cuando usted sea elegible, su oficial de libertad condicional tiene la opción de presentar ante el tribunal los documentos para solicitar su terminación anticipada. Es importante hablar con su oficial de libertad condicional sobre si debe presentarlos o no."
+    },
+    {
+      "en": "Did your probation officer file for early termination on your behalf?",
+      "es": "¿Presentó su oficial de libertad condicional la solicitud de terminación anticipada en su nombre?"
+    },
+    {
+      "en": "This is not the end of the process. At this point, either the prosecutor or the judge may object to your early termination. If this occurs, the judge must hold a hearing to decide whether or not to grant you early termination. They are required to “take whatever action it determines would be for the best interest of justice and the welfare of society.” It may be helpful to discuss how to best present your case to the judge with your probation officer or your attorney.",
+      "es": "Esto no es el final del proceso. En este punto, ya sea el fiscal o el juez puede oponerse a su terminación anticipada. Si esto ocurre, el juez debe celebrar una audiencia para decidir si concede o no la terminación anticipada. El juez debe “tomar las medidas que determine sean en el mejor interés de la justicia y el bienestar de la sociedad”. Puede ser útil hablar con su oficial de libertad condicional o con su abogado sobre cómo presentar mejor su caso ante el juez."
+    }
+  ]
+}
